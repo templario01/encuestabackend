@@ -1,7 +1,6 @@
-# Survey management backend
-BACKEND SERVER - Java Spring Boot
-
-# Steps for compile
+## Spring Boot
+# Survey management REST API 
+# Steps
 - use Java JDK 11
 - synchronize the file -> pom.xml
   
